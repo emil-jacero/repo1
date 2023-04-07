@@ -4,7 +4,7 @@ repo_url: "https://github.com/emil-jacero/repo1"
 edit_uri: "edit/main/"
 
 nav:
-  - Getting Started: getting-started.md
+  - Intro: index.md
   - Advanced Topics:
       - Part 1: advanced-topics/part-1.md
       - Part 2: advanced-topics/part-2.md
