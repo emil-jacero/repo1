@@ -1,7 +1,5 @@
-site_name: "!include"
-repo_name: "emil-jacero/repo1"
 repo_url: "https://github.com/emil-jacero/repo1"
-edit_uri: "edit/main/"
+edit_uri: "edit/main/docs/"
 
 nav:
   - Intro: index.md
